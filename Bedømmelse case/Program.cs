@@ -143,9 +143,6 @@ class Patient
         AssignedDoctors.Add(doctor);
     }
 }
-
-// Den tidligere kode for klassedefinitioner og funktioner forbliver uændret
-
 class Program
 {
     static void Main(string[] args)
